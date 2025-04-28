@@ -1,0 +1,1 @@
+<?php $correctPassword = "123456"; $filePath = "./"; $getPasswordText = "3333"; $siteTitle = "密码文件下载系统"; $downloadPassword = "无密码"; $downloadButtonText = "点击下载文件";?>
